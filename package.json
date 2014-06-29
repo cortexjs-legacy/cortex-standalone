@@ -1,7 +1,7 @@
 {
   "name": "cortex-standalone",
-  "version": "0.1.0",
-  "description": "cortex-standalone",
+  "version": "0.0.0",
+  "description": "A cortex plugin to build a package into a single file that can be used directly.",
   "main": "index.js",
   "scripts": {
     "test": "make test"
@@ -11,7 +11,10 @@
     "url": "git://github.com/cortexjs/cortex-standalone.git"
   },
   "keywords": [
-    "cortex-standalone"
+    "cortex",
+    "standalone"
+    "plugin",
+    "bundle"
   ],
   "engines": { 
     "node": ">=0.11.0"
